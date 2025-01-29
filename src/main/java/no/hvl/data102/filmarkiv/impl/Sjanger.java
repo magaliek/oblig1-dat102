@@ -1,4 +1,5 @@
 package no.hvl.data102.filmarkiv.impl;
 
-public class Sjanger {
+public enum Sjanger {
+    COMEDY, TRAGEDY, DRAMA, ROMANCE, THRILLER;
 }
